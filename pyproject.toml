@@ -1,5 +1,5 @@
 [project]
-name = "Math2LS_Pidjin"
+name = "Math2LS"
 version = "0.0.1"
 authors = [
   { name="Pigeon", email="ilikepigeons.whataboutyou@gmail.com" },
